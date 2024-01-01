@@ -30,6 +30,7 @@ create a HTML file of forms.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 math.html
 <html>
 <head>
@@ -151,6 +152,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('areaofprism/',views.prismarea,name="areaofprism"),
 ]
+```
 ## OUTPUT:
 ![image](https://github.com/RESHMA22C/serversideprocessing/assets/147474426/3845053b-f067-493d-8714-f18afaa54a2d)
 
